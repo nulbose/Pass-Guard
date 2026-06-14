@@ -69,23 +69,28 @@ FinalPJ/
 
 **로그인 화면**
 
-회원가입 및 로그인 기능. SHA-256 해싱으로 비밀번호를 암호화하여 Keychain에 저장한다.
+<img width="1206" height="2622" alt="로그인 화면" src="https://github.com/user-attachments/assets/1505858f-9322-44bf-95b3-ee6e66a6d5fe" />
+
 
 **홈 대시보드**
 
-전체 보안 점수를 원형 게이지(0~100점)로 표시하고, 등록 계정 수 / 위험 계정 수 / 재사용 계정 수를 요약 카드로 보여준다. 신호등 색상 체계(빨강/노랑/초록)로 직관적인 상태 확인이 가능하다.
+<img width="1206" height="2622" alt="홈 대시보드" src="https://github.com/user-attachments/assets/71916a56-e214-40bd-99d3-85759af39f6f" />
+
 
 **계정 목록 및 상세 진단**
 
-등록된 계정의 보안 점수를 목록으로 표시하며, 상세 화면에서는 강도 점수, 패턴 감점, 재사용 감점, 변경 주기를 항목별로 분석한다. 경고 메시지와 구체적인 보완 제안을 함께 제공한다.
+<img width="1206" height="2622" alt="계정 목록 및 상세 진단" src="https://github.com/user-attachments/assets/4b61c62c-313e-4cf9-8159-740b0cfd5841" />
+
 
 **비밀번호 생성기**
 
-길이(4~20자)와 문자 종류(소문자/대문자/숫자/특수문자)를 선택하여 안전한 비밀번호를 생성한다. 프리셋(숫자 PIN / 일반 / 최강), 혼동 문자 제외 옵션, 실시간 점수 분석 및 예상 해독 시간을 제공한다.
+<img width="1206" height="2622" alt="비밀번호 생성기" src="https://github.com/user-attachments/assets/3490abcb-c665-49bf-9f34-3455d94b5cfb" />
+
 
 **설정**
 
-비밀번호 변경 주기 알림(30/60/90일), JSON 데이터 내보내기/가져오기, 모든 데이터 삭제, 로그아웃 및 계정 탈퇴 기능을 제공한다.
+<img width="1206" height="2622" alt="설정" src="https://github.com/user-attachments/assets/47aed8ee-7290-4353-b0a0-a574391e2d3f" />
+
 
 ### 2.4 기대효과
 - 사용자가 자신의 비밀번호 보안 수준을 객관적인 점수로 인식하여 보안 의식이 향상된다.
@@ -114,8 +119,5 @@ FinalPJ/
 
 ---
 
-## 3. 발표 영상
-
-[![PassGuard 시연 영상](https://img.youtube.com/vi/영상ID/0.jpg)](https://youtu.be/영상ID)
-
-> YouTube 업로드 후 위 `영상ID`를 실제 YouTube 영상 ID로 교체하세요.
+## 3. 시연 영상
+https://youtu.be/oMO53UlfXYI
