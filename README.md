@@ -1,10 +1,10 @@
 # PassGuard
-비밀번호 보안 진단 및 안전한 비밀번호 생성 iOS 어플리케이션
+비밀번호 보안 진단 및 안전한 비밀번호 생성 iOS 앱
 
 ## 1. 프로젝트 수행 목적
 
 ### 1.1 프로젝트 정의
-사용자의 비밀번호 보안 수준을 진단하고, 안전한 비밀번호 생성을 도와주는 iOS 어플리케이션
+사용자의 비밀번호 보안 수준을 진단하고, 안전한 비밀번호 생성을 도와주는 iOS 앱
 
 ### 1.2 프로젝트 배경
 최근 개인정보 유출 사고가 빈번하게 발생하고 있으며, 그 원인의 상당수가 취약한 비밀번호에서 비롯된다. 그러나 대부분의 사용자는 자신의 비밀번호가 얼마나 위험한지 인지하지 못하고, "password123"이나 "qwerty" 같은 예측 가능한 비밀번호를 여러 서비스에서 반복 사용하고 있다.
@@ -69,27 +69,27 @@ FinalPJ/
 
 **로그인 화면**
 
-<img width="1206" height="2622" alt="로그인 화면" src="https://github.com/user-attachments/assets/1505858f-9322-44bf-95b3-ee6e66a6d5fe" />
+<img width="126" height="262" alt="로그인 화면" src="https://github.com/user-attachments/assets/1505858f-9322-44bf-95b3-ee6e66a6d5fe" />
 
 
 **홈 대시보드**
 
-<img width="1206" height="2622" alt="홈 대시보드" src="https://github.com/user-attachments/assets/71916a56-e214-40bd-99d3-85759af39f6f" />
+<img width="126" height="262" alt="홈 대시보드" src="https://github.com/user-attachments/assets/71916a56-e214-40bd-99d3-85759af39f6f" />
 
 
 **계정 목록 및 상세 진단**
 
-<img width="1206" height="2622" alt="계정 목록 및 상세 진단" src="https://github.com/user-attachments/assets/4b61c62c-313e-4cf9-8159-740b0cfd5841" />
+<img width="126" height="262" alt="계정 목록 및 상세 진단" src="https://github.com/user-attachments/assets/4b61c62c-313e-4cf9-8159-740b0cfd5841" />
 
 
 **비밀번호 생성기**
 
-<img width="1206" height="2622" alt="비밀번호 생성기" src="https://github.com/user-attachments/assets/3490abcb-c665-49bf-9f34-3455d94b5cfb" />
+<img width="126" height="262" alt="비밀번호 생성기" src="https://github.com/user-attachments/assets/3490abcb-c665-49bf-9f34-3455d94b5cfb" />
 
 
 **설정**
 
-<img width="1206" height="2622" alt="설정" src="https://github.com/user-attachments/assets/47aed8ee-7290-4353-b0a0-a574391e2d3f" />
+<img width="126" height="262" alt="설정" src="https://github.com/user-attachments/assets/47aed8ee-7290-4353-b0a0-a574391e2d3f" />
 
 
 ### 2.4 기대효과
